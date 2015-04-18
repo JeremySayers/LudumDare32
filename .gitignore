@@ -5,3 +5,5 @@ SDL.sdf
 SDL.sdf
 Release/
 Debug/
+SDL/Debug/
+SDL/Release/

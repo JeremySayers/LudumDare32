@@ -3,3 +3,5 @@
 *.sdf
 SDL.sdf
 SDL.sdf
+Release/
+Debug/

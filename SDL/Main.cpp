@@ -8,7 +8,7 @@ SDL_Color color;
 SDL_Event e;
 
 bool running = true;
-int FPS = 60;
+int FPS = 60;  // 60 Frames Per Second
 
 Game game;
 

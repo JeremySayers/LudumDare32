@@ -3,7 +3,7 @@
 *.sdf
 SDL.sdf
 SDL.sdf
-Release/
-Debug/
-SDL/Debug/
-SDL/Release/
+Release\*
+Debug\*
+SDL\Debug\*
+SDL\Release\*
